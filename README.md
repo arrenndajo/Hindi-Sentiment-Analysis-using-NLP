@@ -1,5 +1,5 @@
-# Hindi-Text-Analysis
-Hindi Text Analysis using Natural Language Processing (NLP). It's used in virtual assistants like Google Assistant, Alexa, Siri.
+# Hindi-Sentiment-Analysis
+Hindi Sentiment Analysis using Natural Language Processing (NLP). It's used in virtual assistants like Google Assistant, Alexa, Siri.
 
 Here in this project, we can analyse if the tweet is sarcastic or not with the help of the dataset from Kaggle.
 
